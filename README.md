@@ -2,5 +2,6 @@
 
 It helps:
 
+ - See every perspective of you, for fun.
  - Know yourself better.
  - Remove unwanted karma.
