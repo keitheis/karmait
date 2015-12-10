@@ -4,7 +4,7 @@ Meetup Official API: http://www.meetup.com/meetup_api/
 Reference:
     https://github.com/jbeluch/meetup-rsvper/blob/70ac6c291c48c1c52b13d850c9e93aad32301fc3/meetup-rsvper.py
 """
-from .base import BaseKnot
+from .baseknot import BaseKnot
 
 
 class MeetupKnot(BaseKnot):
