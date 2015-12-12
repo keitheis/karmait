@@ -5,3 +5,12 @@ It helps:
  - See every perspective of you, for fun.
  - Know yourself better.
  - Remove unwanted karma.
+
+
+# Setup
+
+## Install Anaconda (Miniconda)
+
+ 1. Install Miniconda.
+ 2. `conda create --name kaenv python=3.5`
+ 3. `source activate kaenv`
