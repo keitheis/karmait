@@ -9,6 +9,8 @@ It helps:
 
 # Setup
 
+[![Join the chat at https://gitter.im/keitheis/karmait](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/keitheis/karmait?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Install Anaconda (Miniconda)
 
  1. Install Miniconda.
